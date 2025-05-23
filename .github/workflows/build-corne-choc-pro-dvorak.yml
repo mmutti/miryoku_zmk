@@ -1,5 +1,5 @@
 
-name: 'Build Example corne_choc_pro'
+name: 'Build Example corne_choc_pro dvorak'
 on: workflow_dispatch
 jobs:
   build:
