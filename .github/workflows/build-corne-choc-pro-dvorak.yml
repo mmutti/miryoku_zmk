@@ -8,3 +8,4 @@ jobs:
     with:
       board: '["corne_choc_pro_left","corne_choc_pro_right"]'
       alphas: '["dvorak"]'
+      shield: '["nice_view"]'
